@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/h1lller/fe-boilerplate/issues"
   },
-  "homepage": "https://github.com/h1lller/fe-boilerplate#readme"
+  "homepage": "https://github.com/h1lller/fe-boilerplate#readme",
+  "devDependencies": {
+    "stylelint-config-htmlacademy": "^0.1.4"
+  }
 }
