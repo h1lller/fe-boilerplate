@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/h1lller/fe-boilerplate#readme",
   "devDependencies": {
+    "htmlhint": "^0.14.2",
     "stylelint-config-htmlacademy": "^0.1.4"
   }
 }
